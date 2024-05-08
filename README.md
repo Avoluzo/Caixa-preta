@@ -28,7 +28,7 @@ Instalação:
 Executando os testes:
 
 
--Foram comtemplados todos os elementos e ícones da tela de login
+-Foram comtemplados os elementos de email e senha, e também código de autentificação no email
 
 
 Registro de teste:
