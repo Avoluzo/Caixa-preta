@@ -34,8 +34,7 @@ Executando os testes:
 Registro de teste:
 
 
-Links to an external site.
-Insira o link do vídeo gravado para atividade;
+LINK PARA O VÍDEO https://youtu.be/XC-WoZBTJQ8
 
 Autores:
 
