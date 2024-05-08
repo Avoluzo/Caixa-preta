@@ -31,13 +31,13 @@ Executando os testes:
 -Foram comtemplados todos os elementos e ícones da tela de login
 
 
-Registro de teste
+Registro de teste:
 
 
 Links to an external site.
 Insira o link do vídeo gravado para atividade;
 
-Autores
+Autores:
 
 
 Gustavo Luz de Brito
